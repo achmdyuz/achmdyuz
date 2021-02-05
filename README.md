@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは 
 
 <!--
 **achmdyuz/achmdyuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning about how to combine my Japanese language and programming at the same time. I'm writing and rewriting many random script for that, but I'm too shy to make this random repository public yet. If for some reason someone find this repository, then please just ignore it or spare some time to blame any public repository I've created :).
+
+優由巣(ユユス)です
